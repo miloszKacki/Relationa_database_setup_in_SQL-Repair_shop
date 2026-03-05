@@ -6,9 +6,9 @@ You can also find here a folder with example queries made to showcase the functi
 ## What does the database accomplish?
 
 The database is supposed to:
-  -allow browsing the repair history
-  -allow users to check the availability of parts needed for repairs
-  -help with billing clients and their insurers for the repair
+  1. allow browsing the repair history
+  2. allow users to check the availability of parts needed for repairs
+  3. help with billing clients and their insurers for the repair
 
 ### Diagram of correctly created database
 
